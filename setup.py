@@ -18,7 +18,7 @@ setup(name='googleanalytics',
     ],
     include_package_data=True,
     install_requires=[
-        'oauth2client==2.0',
+        'oauth2client==4.1.3',
         'google-api-python-client==1.5.0',
         'python-dateutil',
         'addressable>=1.4.2',
